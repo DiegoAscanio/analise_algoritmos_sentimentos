@@ -1,0 +1,6 @@
+What is the text about?
+Have you read the text?
+Then you should do it. Please read the text again.
+Have you finished?
+Is the text about software development?
+What kind of tools are covered in it?

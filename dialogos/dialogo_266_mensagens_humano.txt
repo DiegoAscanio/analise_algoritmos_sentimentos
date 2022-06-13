@@ -1,0 +1,5 @@
+Hello
+Are you alive?
+Do you like windows 8?
+What is Windows 8?
+Ok bye

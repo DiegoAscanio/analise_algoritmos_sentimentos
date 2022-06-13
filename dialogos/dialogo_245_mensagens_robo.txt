@@ -1,0 +1,3 @@
+What is the currency of the island ?
+Hello my friend ! It is a pleasure to speak with you . I will ask you a question in a second, please wait !
+My answer is: "The island uses the Australian dollar"

@@ -1,0 +1,3 @@
+Ты говоришь на русском?
+Ok. Do you now something about programming of quantum computers?
+What language I must use for programming it?

@@ -1,0 +1,13 @@
+Hello. I am professional teacher about reading comprehension. Let's compete! You give me questions, and I will answer all of your questions. XD
+What is the text about?
+I don't know.
+Have you read the text?
+No.
+Then you should do it. Please read the text again.
+Okay.
+Have you finished?
+Yes.
+Is the text about software development?
+Yes.
+What kind of tools are covered in it?
+open-source and free software tools
