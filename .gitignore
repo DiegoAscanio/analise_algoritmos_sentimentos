@@ -1,4 +1,5 @@
 venv*
+dialogos*
 ifeel_docker.tar
 geckodriver.log
 .ipynb_checkpoints*
