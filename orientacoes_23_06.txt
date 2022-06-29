@@ -1,0 +1,6 @@
+-gerar matrizes de confusão (hasan)
+-análises mais focadas nos usuários do que no bot (gabriel)
+-eliminar perguntas, priorizar expressões
+-estratégia de votos
+-pega a frase, pega o sentimento do usuário e considera o predominante o mais frequente (método do voto)
+-descartar neutros (sugestão hasan)

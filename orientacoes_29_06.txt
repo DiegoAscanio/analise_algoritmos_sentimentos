@@ -1,0 +1,11 @@
+Só caracterizar melhor com o que eu tenho o porquê meu trabalho não é uma repetição da literatura;
+
+1. apresentou resultados que a literatura, podendo apresentar, não apresentou
+2. revisou diálogos (conforme solicitado pelos autores do ConvAI) que o Feine jASPER NÃO mencionou ter feito
+3. revisar, clarificar a metodologia
+4. enfatizar o fato da criação da ferramenta (contribuição técnica), a contribuição da criação do rotulador
+5. criar fluxograma metodologia;
+6. enfatizar a melhoria das correlações pela revisão dos diálogos;
+7. a revisão dos diálogos é a principal contribuição;
+8. SER OBJETIVO;
+8. reavaliou os dados do trabalho de tal forma que conseguimos melhorias;
